@@ -1,0 +1,6 @@
+[2026-02-23T06:06:26.772Z] POST /api/admin/login
+[2026-02-23T06:06:26.846Z] Login attempt: id="admin" | Success: true
+[2026-02-23T06:06:27.483Z] GET /api/analytics/insights?period=week&grade=All%20Grades&subject=All%20Subjects
+[2026-02-23T06:06:27.515Z] GET /api/analytics/daily-activity?period=week&grade=All%20Grades&subject=All%20Subjects
+[2026-02-23T06:06:27.572Z] GET /api/analytics/insights?period=week&grade=All%20Grades&subject=All%20Subjects
+[2026-02-23T06:06:28.009Z] GET /api/analytics/daily-activity?period=week&grade=All%20Grades&subject=All%20Subjects
